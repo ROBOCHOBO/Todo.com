@@ -107,7 +107,7 @@ body{
     top:10px;
 }
 .item i.de:hover{
-    color:#af0000;
+    color:red;
     cursor: pointer;
 }
 /* ------------ add item ------------ */
@@ -135,27 +135,6 @@ body{
     font-size: 20px;
     padding-left:10px;
 }
-.add-to-do input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-    color: #4162f6;
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 20px;
-}
-.add-to-do input::-moz-placeholder { /* Firefox 19+ */
-    color: #4162f6;
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 20px;
-}
-.add-to-do input:-ms-input-placeholder { /* IE 10+ */
-    color: #4162f6;
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 20px;
-}
-.add-to-do input:-moz-placeholder { /* Firefox 18- */
-    color: #4162f6;
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 20px;
-}
-
 
 
 
